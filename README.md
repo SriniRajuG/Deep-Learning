@@ -19,3 +19,11 @@ The 10 classes to predict are:
  *   c9: talking to passenger
 
 ### Time series Classification using CNN and Scalograms
+
+In this project I built a predictive maintenance solution by identifying faults in rolling element bearings. Converted a large time series data into multiple images using short-time Fourier transform and continuous wavelet transform. Used convolutional neural networks to classify images into 4 classes of defects to identify the point in time when the fault occured.
+
+References:
+* https://www.hindawi.com/journals/sv/2017/5067651/
+* https://www.mathworks.com/help/wavelet/examples/classify-time-series-using-wavelet-analysis-and-deep-learning.html;jsessionid=af03afa362b6cd7405332813218f
+* https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1524.pdf
+
