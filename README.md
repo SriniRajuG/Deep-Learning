@@ -27,3 +27,6 @@ References:
 * https://www.mathworks.com/help/wavelet/examples/classify-time-series-using-wavelet-analysis-and-deep-learning.html;jsessionid=af03afa362b6cd7405332813218f
 * https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1524.pdf
 
+### Time Series Forecasting using LSTM
+
+Generated a sine wave and used synced many-to-many LSTM http://karpathy.github.io/2015/05/21/rnn-effectiveness/ for forecasting.
